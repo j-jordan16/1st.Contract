@@ -1,0 +1,28 @@
+{
+  "name": "project1.0",
+  "version": "1.0.0",
+  "description": "1st smart contract project",
+  "main": "index.js",
+  "scripts": {
+    "test": "suh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dude"
+  },
+  "keywords": [
+    "suh",
+    "dude"
+  ],
+  "author": "livefreeordie",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "@nomiclabs/hardhat-etherscan": "^2.1.8",
+    "ethers": "^5.5.2",
+    "hardhat": "^2.7.0"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
